@@ -21,7 +21,7 @@ export const BasesConditions: React.FC = () => {
                     </h2>
                     <p className="text-brand-400 font-medium uppercase tracking-wider text-sm flex items-center gap-2">
                         <span className="w-2 h-2 rounded-full bg-brand-500 animate-pulse"></span>
-                        Convocatoria 2025: Diplomados TIC
+                        Convocatoria 2026: Diplomados TIC
                     </p>
                 </div>
                 <div className="flex-shrink-0">

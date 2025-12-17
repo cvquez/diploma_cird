@@ -15,7 +15,7 @@ export const Hero: React.FC = () => {
       <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col items-center text-center">
         <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-brand-900/30 border border-brand-500/30 text-brand-300 text-sm font-medium mb-8 backdrop-blur-sm animate-fade-in-up">
           <span className="flex h-2 w-2 rounded-full bg-brand-400 animate-pulse"></span>
-          Convocatoria Abierta 2026
+          Convocatoria Abierta 2026 • Inicia ABRIL 2026
         </div>
         
         <h1 className="text-4xl md:text-6xl lg:text-7xl font-extrabold text-white tracking-tight mb-6 max-w-5xl">
