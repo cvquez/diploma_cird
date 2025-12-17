@@ -23,7 +23,7 @@ export const Navbar: React.FC = () => {
           {/* Logo Principal (Izquierda) */}
           <div className="flex-shrink-0 flex items-center cursor-pointer" onClick={() => window.scrollTo(0,0)}>
             <img 
-              src="public/logo/cird.jpeg" 
+              src={LOGOS.cird} 
               alt="Instituto CIRD" 
               className="h-16 w-auto object-contain rounded-md bg-white p-1"
             />

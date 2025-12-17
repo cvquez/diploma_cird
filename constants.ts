@@ -1,8 +1,14 @@
 import { Module, Instructor, PricingTier, FaqItem } from './types';
 
+// Import images - Vite will process them and handle paths automatically
+import agLogo from '@/src/assets/logo/ag.png';
+import miticLogo from '@/src/assets/logo/mitic.png';
+import cirdLogo from '@/src/assets/logo/cird.jpeg';
+
 export const LOGOS = {
-  ag: "/public/logo/ag.png",
-  mitic: "/public/logo/mitic.png"
+  ag: agLogo,
+  mitic: miticLogo,
+  cird: cirdLogo
 };
 
 export const NAV_LINKS = [
